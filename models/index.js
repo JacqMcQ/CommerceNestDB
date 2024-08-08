@@ -1,6 +1,3 @@
-const { Sequelize } = require('sequelize');
-const sequelize = require('../config/connection');
-
 // import models
 const Product = require('./Product');
 const Category = require('./Category');
