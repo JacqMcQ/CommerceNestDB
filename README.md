@@ -2,7 +2,7 @@
 
 CommerceNestDB is a backend database management system designed for e-commerce websites. It uses Sequelize to interact with a relational database.
 
-Video Tutorial on Google Drive: https://drive.google.com/file/d/1-ZI_RtcMx6V4Pol5743dxTNaJb1pSGK-/view?usp=drive_link
+Video Tutorial on Google Drive: https://drive.google.com/file/d/1jZnPdgNEjuNyCly1tLHp1CsUdE5mBVu8/view
 
 ## Table of Contents
 
